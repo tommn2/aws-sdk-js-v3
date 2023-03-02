@@ -120,6 +120,7 @@ export interface UpdateTableCommandOutput extends UpdateTableOutput, __MetadataB
  *   }
  * }
  * *\/
+ * // example id: to-modify-a-tables-provisioned-throughput-1476118076147
  * ```
  *
  */

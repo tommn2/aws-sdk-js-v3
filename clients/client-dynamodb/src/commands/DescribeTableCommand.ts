@@ -103,6 +103,7 @@ export interface DescribeTableCommandOutput extends DescribeTableOutput, __Metad
  *   }
  * }
  * *\/
+ * // example id: to-describe-a-table-1475884440502
  * ```
  *
  */

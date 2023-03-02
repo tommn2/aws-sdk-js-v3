@@ -72,6 +72,7 @@ export interface DescribeSchemasCommandOutput extends DescribeSchemasResponse, _
  *   "Schemas": []
  * }
  * *\/
+ * // example id: describe-schemas-1481755933924
  * ```
  *
  */
